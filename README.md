@@ -1,7 +1,8 @@
 CNN Image Classification with PyTorch <br>
 
 Visuals are:<br>
-<img width="614" height="223" alt="image" src="https://github.com/user-attachments/assets/c194ab5b-f16c-4604-9bfd-6205bfc5d954" /><br>
+<img width="229" height="603" alt="image" src="https://github.com/user-attachments/assets/145b2dda-f504-4d7d-95f5-ec173e5c8ec3" />
+<br>
 
 <img width="430" height="121" alt="image" src="https://github.com/user-attachments/assets/5e9c2c03-296c-4710-ada4-e1c3ad1e9085" /><br>
 <img width="1255" height="566" alt="image" src="https://github.com/user-attachments/assets/a6ec356a-fe42-4fad-8e62-497945b06092" /><br>
